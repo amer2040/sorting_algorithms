@@ -1,4 +1,4 @@
-#include  "sort.h"
+#include "sort.h"
 
 /**
  * bubble_sort - func using bubble sort algo to sort array
